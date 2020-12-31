@@ -11,5 +11,29 @@ localStorage.setItem(hour, textvalue)
 
 $("#hour-9 .description").val(localStorage.getItem("hour-9"))
 
-function 
+function colorTime(){
+var momentTime = moment().hours()
+$(".time-block").each(function(){
+var divTime = parseInt($(this).attr("id").split("-")[1]);
+
+if (divTime<momentTime){
+// $(this).removeClass("present future")
+$(this).addClass("past")
+}
+
+else if (divTime===momentTime){
+$(this).removeClass("past future")
+$(this).addClass("present")
+}
+
+else {
+$(this).removeClass("past present")
+$(this).addClass("future")
+}
+
+})
+
+}
+
+colorTime()
 })
