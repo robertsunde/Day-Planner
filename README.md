@@ -18,7 +18,7 @@ Red:Future
 To use, click within the colored block of the hour in which a task is required. Enter text as prompted, then click the blue save icon to the right of the designated block.
 
 Now the task is saved! It will hold its place even after the page is reloaded from the same system. 
-
+![image](https://user-images.githubusercontent.com/73792987/104108086-d870bc80-528f-11eb-97c7-45ad480b8c76.png)
 
 Credits:The Website was created with help/information/guidance/images from: 
 Mimo (iphone application) 
