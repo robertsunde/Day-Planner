@@ -1,6 +1,6 @@
 # Day-Planner
 
-https://robertsunde.github.io/Robs-JavaScript-Quiz/
+https://robertsunde.github.io/Day-Planner/
 
 Installation:
 The content is available over the internet and does not require installation of any sort.
