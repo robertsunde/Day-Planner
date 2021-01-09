@@ -20,6 +20,11 @@ To use, click within the colored block of the hour in which a task is required. 
 Now the task is saved! It will hold its place even after the page is reloaded from the same system. 
 
 
-
-Credits:
-
+Credits:The Website was created with help/information/guidance/images from: 
+Mimo (iphone application) 
+w3schools.com (website) 
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics https://stackoverflow.com/ https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js 
+https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js 
+https://use.fontawesome.com/releases/v5.8.1/css/all.css 
+https://fonts.googleapis.com/css?family=Open+Sans&display=swap 
+https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css
